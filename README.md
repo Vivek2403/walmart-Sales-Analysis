@@ -17,7 +17,9 @@ This dataset contains sales transactions from a three different branches of Walm
 Customer-Centric Analysis:
 
 ->Product Analysis: Identify top-performing product lines, explore underperforming categories, and understand customer preferences across different product segments.
+
 ->Sales Analysis: Analyze sales trends to assess the effectiveness of past sales strategies, uncover seasonal patterns, and predict future demand for optimized inventory management.
+
 ->Customer Segmentation: Discover distinct customer segments based on demographics and purchasing behavior. Analyze the profitability of each segment to tailor marketing strategies and enhance customer experience.
 
 
@@ -36,6 +38,7 @@ Data Preparation:
 To enrich the data and uncover deeper insights, we will create new features based on existing ones:
 
 Time-based Features:
+
 time_of_day: Categorize transactions into morning, afternoon, and evening to analyze sales patterns throughout the day.
 day_name: Extract the day of the week (Monday, Tuesday, etc.) to identify peak business days for each branch.
 month_name: Extract the month (January, February, etc.) to determine seasonal sales trends.
