@@ -16,11 +16,15 @@ This dataset contains sales transactions from a three different branches of Walm
 
 Customer-Centric Analysis:
 
-->Product Analysis: Identify top-performing product lines, explore underperforming categories, and understand customer preferences across different product segments.
+->Product Analysis: 
+Identify top-performing product lines, explore underperforming categories, and understand customer preferences across different product segments.
 
-->Sales Analysis: Analyze sales trends to assess the effectiveness of past sales strategies, uncover seasonal patterns, and predict future demand for optimized inventory management.
+->Sales Analysis: 
 
-->Customer Segmentation: Discover distinct customer segments based on demographics and purchasing behavior. Analyze the profitability of each segment to tailor marketing strategies and enhance customer experience.
+Analyze sales trends to assess the effectiveness of past sales strategies, uncover seasonal patterns, and predict future demand for optimized inventory management.
+
+->Customer Segmentation:
+ Discover distinct customer segments based on demographics and purchasing behavior. Analyze the profitability of each segment to tailor marketing strategies and enhance customer experience.
 
 
 This revised list reframes the analyses with a customer-centric approach. It highlights understanding customer preferences and behavior as a key driver for optimizing product lines, sales strategies, and ultimately, customer satisfaction and profitability.
@@ -60,7 +64,7 @@ This revised text clarifies the purpose of data inspection, acknowledges potenti
 
 Business Questions To Answer
 
-Generic Question
+Generic Question:-
 
 1)How many unique cities does the data have?
 2)In which city is each branch?
